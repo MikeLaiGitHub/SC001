@@ -6,4 +6,4 @@ Assignment1:
   2. CollectNewspaperKarel.py
   3. StoneMasonKarel.py
   4. MidpointKarel.py
-  5.~8. Extension 1~4 MidpointKarel.py
+  5.~8. Extension 1 to 4 MidpointKarel.py
