@@ -1,6 +1,7 @@
 # SC001 and SC101
 All the assignments I did in StanCode class SC001 and SC101
 
+
 The following will be the list of Assignments I did in class SC001.
 
 Assignment1:
@@ -34,6 +35,7 @@ Assignment4:
   3. mirror_lake.py
   4. simpleimage.py
   5. best_photoshop_award.py
+
 
 The following will be the list of Assignments I did in class SC101.
 
