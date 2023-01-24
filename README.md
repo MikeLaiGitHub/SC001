@@ -1,6 +1,7 @@
-# SC001
-All the assignments I did in StanCode SC001 class
+# SC001 and SC101
+All the assignments I did in StanCode class SC001 and SC101
 
+The following will be the list of Assignments I did in class SC001.
 Assignment1:
   1. checkerboardKarel.py
   2. collectNewspaperKarel.py
@@ -25,3 +26,50 @@ Assignment3:
   4. rocket.py
   5. extension_name_sq.py
   6. extension_similarity.py
+
+Assignment4:
+  1. blur.py
+  2. fire.py
+  3. mirror_lake.py
+  4. simpleimage.py
+  5. best_photoshop_award.py
+
+The following will be the list of Assignments I did in class SC101.
+Assignment0:
+  1. blur.py
+  2. class_reviews.py
+  3. coin_flip_runs.py
+  4. debug_mode.py
+  5. simpleimage.py
+
+Assignment1:
+  1. bouncing_ball.py
+  2. draw_line.py
+  3. my_drawing.py
+  
+Assignment2:
+  1. breakout.py
+  2. breakoutgraphics.py
+
+Assignment3:
+  1. pick_your_starter_pokemon.py
+  2. simpleimage.py
+  3. stanCodoshop.py
+
+Assignment4:
+  1. babygraphics.py
+  2. babygraphicsgui.py
+  3. babynames.py
+  4. milestone1.py
+  5. webcrawler.py
+  
+Assignment5:
+  1. anagram.py
+  2. dictionary.text
+  3. largest_digit.py
+  4. sierpinski.py
+  
+Assignment6:
+  1. add2.py
+  2. boggle.py
+  3. dictionary.py
