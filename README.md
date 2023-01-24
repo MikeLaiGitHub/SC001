@@ -17,3 +17,11 @@ Assignment2:
   6. extension2_number_checker.py
   7. entension3_triangular_checker.py
   8. entension4_narcissistic_checker.py
+
+Assignment3:
+  1. caesar.py
+  2. complement.py
+  3. hangman.py
+  4. rocket.py
+  5. extension_name_sq.py
+  6. extension_similarity.py
