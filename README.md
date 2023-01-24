@@ -2,6 +2,7 @@
 All the assignments I did in StanCode class SC001 and SC101
 
 The following will be the list of Assignments I did in class SC001.
+
 Assignment1:
   1. checkerboardKarel.py
   2. collectNewspaperKarel.py
@@ -35,6 +36,7 @@ Assignment4:
   5. best_photoshop_award.py
 
 The following will be the list of Assignments I did in class SC101.
+
 Assignment0:
   1. blur.py
   2. class_reviews.py
