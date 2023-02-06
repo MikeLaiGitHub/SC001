@@ -1,5 +1,5 @@
 #    SC001 and SC101
-#  All the assignments I did in StanCode class SC001 and SC101
+# All the assignments I did in StanCode class SC001 and SC101
 
 
 #  The following will be the list of Assignments I did in class SC001.
