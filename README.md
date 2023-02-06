@@ -1,7 +1,7 @@
 #    SC001 and SC101
 ### All the assignments I did in StanCode class SC001 and SC101
 
-#### Watch my *[DEMO_VIDEO](https://youtube.com/shorts/izyw4jGoTyQ?feature=share)
+#### Watch my *[DEMO_VIDEO!]*(https://youtube.com/shorts/izyw4jGoTyQ?feature=share)
 
 ###  The following will be the list of Assignments I did in class SC001.
 
