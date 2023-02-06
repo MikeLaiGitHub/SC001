@@ -1,4 +1,4 @@
-# SC001 and SC101
+#     SC001 and SC101
 All the assignments I did in StanCode class SC001 and SC101
 
 
