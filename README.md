@@ -32,7 +32,7 @@
   5. [extension_name_sq.py](https://github.com/MikeLaiGitHub/SC001-and-SC101-at-StanCode/blob/main/SC001/Assignment3/extension_name_sq.py)
   6. [extension_similarity.py](https://github.com/MikeLaiGitHub/SC001-and-SC101-at-StanCode/blob/main/SC001/Assignment3/extension_similarity.py)
 
-#  Assignment4:
+##  Assignment4:
   1. [blur.py](https://github.com/MikeLaiGitHub/SC001-and-SC101-at-StanCode/blob/main/SC001/Assignment4/blur.py)
   2. [fire.py](https://github.com/MikeLaiGitHub/SC001-and-SC101-at-StanCode/blob/main/SC001/Assignment4/fire.py)
   3. [mirror_lake.py](https://github.com/MikeLaiGitHub/SC001-and-SC101-at-StanCode/blob/main/SC001/Assignment4/mirror_lake.py)
