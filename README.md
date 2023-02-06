@@ -5,7 +5,7 @@
 ##  The following will be the list of Assignments I did in class SC001.
 
 ##  Assignment1:
-  1. checkerboardKarel.py
+  1. checkerboardKarel.py(https://github.com/MikeLaiGitHub/SC001-and-SC101-at-StanCode/blob/main/SC001/Assignment1/CheckerboardKarel.py)
   2. collectNewspaperKarel.py
   3. stoneMasonKarel.py
   4. midpointKarel.py
