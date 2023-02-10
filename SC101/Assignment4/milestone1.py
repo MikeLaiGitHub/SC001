@@ -1,6 +1,6 @@
 """
 File: milestone1.py
-Name: 
+Name: Mike
 -----------------------
 This file tests the milestone 1 for
 our babyname.py project
